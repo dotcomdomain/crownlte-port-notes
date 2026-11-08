@@ -1,5 +1,8 @@
 # Note9 (SM-N960F crownlte, Exynos 9810): Linux 6.12 → full LineageOS 23 roadmap
 
+> **Outdated:** this is the 2026-11-04 starting point. Most of the "not working" items below
+> have passed on hardware since; see [STATUS.md](../STATUS.md) for the current state.
+
 Research snapshot: 2026-11-04 (UTC). Read-only study; no code, builds, or phone access.
 Author: research sub-agent (Claude). **Every factual claim cites a path or commit. Anything marked
 GUESS is an inference that has not been verified.**

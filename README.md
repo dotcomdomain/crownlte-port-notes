@@ -3,7 +3,8 @@
 Design notes, trial scripts and benchmark results for the Linux 6.12 port to the Galaxy
 Note9 (SM-N960F).
 
-- `docs/`: roadmap and per-feature designs (BT, suspend, C2 idle, audio, sensors, TEE).
+- [`STATUS.md`](STATUS.md): what works on the phone now.
+- `docs/`: roadmap and per-feature designs (dated snapshots; BT, suspend, C2 idle, audio, sensors, TEE).
 - `scripts/pc/`: Windows trial runners and serial/adb capture.
 - `scripts/host/`: build-host packing scripts.
 - `results/`: CPU benchmark, 4.9 vs 6.12.
