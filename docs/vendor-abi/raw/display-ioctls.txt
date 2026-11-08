@@ -1,0 +1,51 @@
+## lib64/libexynosdisplay.so
+0x40044658 _IOW(0x46, 88,size=4) count=1 first=80e64
+0x40084659 _IOW(0x46, 89,size=8) count=1 first=80ebc
+0x4004465a _IOW(0x46, 90,size=4) count=1 first=81008
+0x40084662 _IOW(0x46, 98,size=8) count=1 first=8298c
+0x400c4663 _IOW(0x46, 99,size=12) count=1 first=829d0
+0x40444664 _IOW(0x46,100,size=68) count=2 first=82850
+0x40084665 _IOW(0x46,101,size=8) count=1 first=82b1c
+0x40084666 _IOW(0x46,102,size=8) count=1 first=82bac
+0x40014667 _IOW(0x46,103,size=1) count=1 first=82c78
+0x400446bc _IOW(0x46,188,size=4) count=1 first=80790
+0x401c46bd _IOW(0x46,189,size=28) count=1 first=8067c
+0x401c46be _IOW(0x46,190,size=28) count=1 first=80a38
+0x400446c1 _IOW(0x46,193,size=4) count=1 first=80978
+0x400446ce _IOW(0x46,206,size=4) count=1 first=80508
+0x400446cf _IOW(0x46,207,size=4) count=1 first=824cc
+0x458846d1 _IOW(0x46,209,size=1416) count=2 first=81bb4
+0x400446d3 _IOW(0x46,211,size=4) count=1 first=82530
+0x400846de _IOW(0x46,222,size=8) count=1 first=810dc
+0x400446df _IOW(0x46,223,size=4) count=1 first=8eb38
+0x40f84704 _IOW(0x47,  4,size=248) count=1 first=8ec14
+0x4d084705 _IOW(0x47,  5,size=3336) count=1 first=4abe0
+0x42044720 _IOW(0x47, 32,size=516) count=1 first=82d38
+0x4124472c _IOW(0x47, 44,size=292) count=3 first=9459c
+0x40204752 _IOW(0x47, 82,size=32) count=1 first=8f33c
+0x40104790 _IOW(0x47,144,size=16) count=4 first=81154
+## lib64/libacryl.so
+0xc1104d03 _IOWR(0x4d,  3,size=272) count=1 first=f8fc
+0xc1104d04 _IOWR(0x4d,  4,size=272) count=1 first=cb00
+0xc1304d04 _IOWR(0x4d,  4,size=304) count=1 first=f9ac
+0x80044d05 _IOR(0x4d,  5,size=4) count=1 first=119b8
+0x81104d05 _IOR(0x4d,  5,size=272) count=1 first=cdac
+0x80044d06 _IOR(0x4d,  6,size=4) count=2 first=cf28
+0x83684d06 _IOR(0x4d,  6,size=872) count=2 first=1189c
+0x80044d07 _IOR(0x4d,  7,size=4) count=1 first=ee54
+0x81684d07 _IOR(0x4d,  7,size=360) count=2 first=d3b4
+0x80685600 _IOR(0x56,  0,size=104) count=3 first=d4c0
+0xc0d05605 _IOWR(0x56,  5,size=208) count=3 first=dc1c
+0xc0145608 _IOWR(0x56,  8,size=20) count=9 first=d72c
+0xc058560f _IOWR(0x56, 15,size=88) count=3 first=e56c
+0xc0585611 _IOWR(0x56, 17,size=88) count=3 first=eac0
+0x40045612 _IOW(0x56, 18,size=4) count=3 first=e07c
+0x40045613 _IOW(0x56, 19,size=4) count=3 first=d69c
+0xc008561c _IOWR(0x56, 28,size=8) count=19 first=d9c4
+0x4014563c _IOW(0x56, 60,size=20) count=3 first=dd04
+0xc0205648 _IOWR(0x56, 72,size=32) count=1 first=126b0
+0xc07856c1 _IOWR(0x56,193,size=120) count=2 first=d53c
+## lib64/libexynosgraphicbuffer.so
+## lib64/hw/gralloc.universal9810.so
+0x40044620 _IOW(0x46, 32,size=4) count=1 first=11cf4
+0x48574d54 _IOW(0x4d, 84,size=2135) count=1 first=11b5c

@@ -1,0 +1,33 @@
+0x477f8000 _IOW(0x80,  0,size=1919) count=2 first=8d3740
+0x49318000 _IOW(0x80,  0,size=2353) count=1 first=1c684cc
+0xc0048000 _IOWR(0x80,  0,size=4) count=1 first=1a3e83c
+0xcd318000 _IOWR(0x80,  0,size=3377) count=5 first=1c5cf78
+0x40048001 _IOW(0x80,  1,size=4) count=1 first=1a3e8ac
+0x40108002 _IOW(0x80,  2,size=16) count=1 first=1a3e91c
+0x40108003 _IOW(0x80,  3,size=16) count=1 first=1a45e74
+0xc0208005 _IOWR(0x80,  5,size=32) count=1 first=1a3d9ac
+0xc0108006 _IOWR(0x80,  6,size=16) count=2 first=1a3dbec
+0x40088007 _IOW(0x80,  7,size=8) count=4 first=1a3da54
+0x8004800c _IOR(0x80, 12,size=4) count=1 first=1a3ea4c
+0x4010800d _IOW(0x80, 13,size=16) count=1 first=1a3ed7c
+0x4018800e _IOW(0x80, 14,size=24) count=1 first=1a3eabc
+0x4020800f _IOW(0x80, 15,size=32) count=1 first=1a3eb9c
+0x80048011 _IOR(0x80, 17,size=4) count=1 first=1a3ec0c
+0x40048012 _IOW(0x80, 18,size=4) count=1 first=1a3ee00
+0x40108014 _IOW(0x80, 20,size=16) count=1 first=1a3db54
+0xc0208015 _IOWR(0x80, 21,size=32) count=1 first=1a3ddb8
+0xc0188016 _IOWR(0x80, 22,size=24) count=1 first=1a3decc
+0x40188017 _IOW(0x80, 23,size=24) count=1 first=1a3e050
+0x40208018 _IOW(0x80, 24,size=32) count=1 first=1a3e2dc
+0x40048019 _IOW(0x80, 25,size=4) count=1 first=1a3e4dc
+0x4010801b _IOW(0x80, 27,size=16) count=1 first=1a3e594
+0x4010801c _IOW(0x80, 28,size=16) count=2 first=1a3e71c
+0x4010801d _IOW(0x80, 29,size=16) count=1 first=1a3ee80
+0x4010801e _IOW(0x80, 30,size=16) count=1 first=1a3ef20
+0x40088026 _IOW(0x80, 38,size=8) count=1 first=1a3eb2c
+0x4004802a _IOW(0x80, 42,size=4) count=2 first=1a3d6cc
+0xc0208032 _IOWR(0x80, 50,size=32) count=1 first=1a3eca4
+0xc0088033 _IOWR(0x80, 51,size=8) count=1 first=1a3f590
+0xc0018036 _IOWR(0x80, 54,size=1) count=1 first=1a3ea00
+0x435e8083 _IOW(0x80,131,size=862) count=1 first=1c68704
+0x475e8083 _IOW(0x80,131,size=1886) count=3 first=1c5cfe8

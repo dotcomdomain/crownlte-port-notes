@@ -1,0 +1,8 @@
+mask=01 run=1 s=6.826
+mask=01 run=2 s=6.796
+mask=01 run=3 s=6.842
+mask=80 run=1 s=3.995
+mask=80 run=2 s=3.971
+mask=80 run=3 s=4.000
+all8 s=3.300
+temps 64000 60000 52000 53000 36400 41600
